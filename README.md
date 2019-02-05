@@ -1,12 +1,12 @@
 # 4750Project_GAME
 A Simple Parallel Computer Game Using PyOpenCL
 
-#E4750 PROJECT: GAME
+# E4750 PROJECT: GAME
 author Zian Zhao (zz2558)
-##Overview
+## Overview
 This program is prepared for EECSE4750_001_2018_3 - HETEROGEN COMP-SIG PROCESSING. The code can only be run on Tesseract server!
 
-##Description & How to run
+## Description & How to run
 ####City.py
 
 Code for 3D modeling, build a city and save it as .npy format.
